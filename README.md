@@ -41,4 +41,4 @@
   ##
   
 
-  ![cobrinha](https://github.com/vinivazzz/vinivazzz/blob/main/cobrinha.svg)
+  ![cobrinha](https://github.com/victorvaz757/jogo-cobrinha-)
