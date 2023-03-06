@@ -33,9 +33,9 @@
     <br>
 <div align="left">
   <a href="https://github.com/victor757">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=victorvaz757&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=victorVaz-Dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvaz757&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVaz-Dev&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
   
   ##
