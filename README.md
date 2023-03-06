@@ -40,5 +40,3 @@
   
   ##
   
-
-  ![cobrinha](https://github.com/victorvaz757/jogo-cobrinha-)
