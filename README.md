@@ -32,10 +32,10 @@
   </div>
     <br>
 <div align="left">
-  <a href="https://github.com/victor757">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=victorvaz-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/VictorVaz-Dev">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=VictorVaz-Dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvaz-dev&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVaz-Dev&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
   
   ##
