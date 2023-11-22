@@ -5,8 +5,8 @@
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
 <li>Que tal dar uma olhada em meus projetos⁉</li>
  👇🏽 Meus conhecimentos 👇🏽
-<li>Formado em analise e desenvolvimento de sistemas e cursando sistemas para internet</li>
-<li>Boostrap4</li>
+<li>Formado em Análise e desenvolvimento de sistemas e cursando sistemas para internet</li>
+<li>Boostrap5</li>
 <li>HTML5 e CSS3</li>
 <li>Wordpress (intermediário)</li>
 <li>Microsoft office</li>
