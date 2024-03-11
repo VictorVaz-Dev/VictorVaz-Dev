@@ -1,7 +1,7 @@
 # Meu nome é Victor!😀👍
 <a href="https://www.linkedin.com/in/victor-vaz-b1b70422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
-<li>Eu tenho 20 anos</li> 
+<li>Eu tenho 21 anos</li> 
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
 <li>Que tal dar uma olhada em meus projetos⁉</li>
  👇🏽 Meus conhecimentos 👇🏽
